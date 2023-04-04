@@ -5,7 +5,7 @@ Authors@R:
     person("Olivia", "Pang", , "oliviacp@student.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Convenience functions to make some common tasks with string
-    manipulation and regular expressions a bit easier.
+    manipulation, specific sums, and regular expressions a bit easier.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
